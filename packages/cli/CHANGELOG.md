@@ -1,5 +1,11 @@
 # @yunti-cli/cli
 
+## 0.0.3
+
+### Patch Changes
+
+- cli 指令名修改
+
 ## 0.0.2
 
 ### Patch Changes
