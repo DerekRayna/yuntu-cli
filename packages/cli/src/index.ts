@@ -9,7 +9,7 @@ const pkgJson = fse.readJSONSync(path.join(import.meta.dirname, '../package.json
 const program = new Command();
 
 program
-    .name('guang-cli')
+    .name('yuntu-cli')
     .description('脚手架 cli')
     .version(pkgJson.version);
 
