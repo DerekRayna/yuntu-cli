@@ -12,10 +12,10 @@ export interface NpmPackageOptions {
 
 class NpmPackage {
 
-    name: string;
-    version: string = '';
-    targetPath: string;
-    storePath: string;
+    name: string; // 包名
+    version: string = ''; // 包版本号
+    targetPath: string; // 下载包后存放路径
+    storePath: string; // 下载包内容路径
     
     constructor(options: NpmPackageOptions) {
         this.targetPath = options.targetPath;
