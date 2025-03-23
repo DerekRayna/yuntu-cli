@@ -1,5 +1,11 @@
 # @yuntu-cli/template-react
 
+## 1.2.0
+
+### Minor Changes
+
+- a508a8d: 模板包 gitignore 文件名修改
+
 ## 1.1.0
 
 ### Minor Changes
