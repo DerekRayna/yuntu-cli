@@ -1,5 +1,11 @@
 # @yunti-cli/cli
 
+## 0.1.0
+
+### Minor Changes
+
+- create 指令修复
+
 ## 0.0.4
 
 ### Patch Changes
