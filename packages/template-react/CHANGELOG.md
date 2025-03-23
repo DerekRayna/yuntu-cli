@@ -1,5 +1,11 @@
 # @yuntu-cli/template-react
 
+## 1.3.0
+
+### Minor Changes
+
+- 支持 eslint 配置
+
 ## 1.2.0
 
 ### Minor Changes
