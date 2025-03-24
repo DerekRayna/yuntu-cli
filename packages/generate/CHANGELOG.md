@@ -1,5 +1,11 @@
 # @yuntu-cli/generate
 
+## 1.2.1
+
+### Patch Changes
+
+- generate console 删除
+
 ## 1.2.0
 
 ### Minor Changes

@@ -1,5 +1,12 @@
 # @yunti-cli/cli
 
+## 0.2.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @yuntu-cli/generate@1.2.1
+
 ## 0.2.2
 
 ### Patch Changes

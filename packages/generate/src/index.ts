@@ -17,7 +17,6 @@ async function generate() {
   }
 
   const config: ConfigOptions = result.config;
-  console.log("🚀 ~ generate ~ config:", config)
 
   const systemContent = config.systemSetting
 
