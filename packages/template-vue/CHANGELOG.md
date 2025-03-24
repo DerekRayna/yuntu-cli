@@ -1,5 +1,11 @@
 # @yuntu-cli/template-vue
 
+## 1.2.1
+
+### Patch Changes
+
+- generate 指令与包
+
 ## 1.2.0
 
 ### Minor Changes

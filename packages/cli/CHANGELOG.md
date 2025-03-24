@@ -1,5 +1,16 @@
 # @yunti-cli/cli
 
+## 0.2.0
+
+### Minor Changes
+
+- generate 指令与包
+
+### Patch Changes
+
+- Updated dependencies
+  - @yuntu-cli/generate@1.1.0
+
 ## 0.1.0
 
 ### Minor Changes

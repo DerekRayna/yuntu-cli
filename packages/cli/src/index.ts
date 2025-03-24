@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import create from "@yuntu-cli/create";
+import generate from "@yuntu-cli/generate";
 import { Command } from "commander";
 import fse from "fs-extra";
 import path from "node:path";
@@ -17,6 +18,13 @@ program
   .description("创建项目")
   .action(() => {
     create();
+  });
+
+program
+  .command("generate")
+  .description("生成组件 （基于AI）")
+  .action(() => {
+    generate();
   });
 
 program.parse();

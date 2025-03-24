@@ -1,12 +1,9 @@
 {
-  "name": "@yuntu-cli/cli",
-  "version": "0.2.0",
+  "name": "@yuntu-cli/generate",
+  "version": "1.1.0",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "bin": {
-    "yuntu-ci": "./dist/index.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,10 +15,13 @@
     "access": "public"
   },
   "dependencies": {
-    "@yuntu-cli/create": "workspace:^",
-    "@yuntu-cli/generate": "workspace:^",
-    "commander": "^13.1.0",
-    "fs-extra": "^11.3.0"
+    "@inquirer/prompts": "^7.4.0",
+    "cosmiconfig": "^9.0.0",
+    "dotenv": "^16.4.7",
+    "fs-extra": "^11.3.0",
+    "openai": "^4.89.0",
+    "ora": "^8.2.0",
+    "remark": "^15.0.1"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4"

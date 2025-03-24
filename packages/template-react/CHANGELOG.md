@@ -1,5 +1,11 @@
 # @yuntu-cli/template-react
 
+## 1.3.1
+
+### Patch Changes
+
+- generate 指令与包
+
 ## 1.3.0
 
 ### Minor Changes
