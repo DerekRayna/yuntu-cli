@@ -1,5 +1,11 @@
 # @yuntu-cli/template-react
 
+## 1.3.3
+
+### Patch Changes
+
+- generate 文件位置调整修复
+
 ## 1.3.2
 
 ### Patch Changes

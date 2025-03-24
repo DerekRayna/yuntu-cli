@@ -1,5 +1,11 @@
 # @yuntu-cli/template-vue
 
+## 1.2.3
+
+### Patch Changes
+
+- generate 文件位置调整修复
+
 ## 1.2.2
 
 ### Patch Changes
