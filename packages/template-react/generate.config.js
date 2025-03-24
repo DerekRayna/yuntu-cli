@@ -59,7 +59,7 @@ const systemSetting = `
 
 /** @type { import('./dist/configType'.ConfigOptions)} */
 export default {
-    apiKey: 'sk-d6255867a75f4759a5f64385ffd216a0',
-    baseUrl: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+    apiKey: '你的 API KEY',
+    baseUrl: '你用的代理商的 BASE URL',
     systemSetting
 }
