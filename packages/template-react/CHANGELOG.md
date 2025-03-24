@@ -1,5 +1,11 @@
 # @yuntu-cli/template-react
 
+## 1.4.0
+
+### Minor Changes
+
+- template 版本更新
+
 ## 1.3.4
 
 ### Patch Changes
